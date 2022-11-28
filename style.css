@@ -1,0 +1,101 @@
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 80px;
+}
+
+.logo{
+    width: 50%;
+   padding-top: 10px;
+   float: left;
+}
+
+.login
+{
+    width: 50%;
+    float: left;
+    padding-top: 10px;
+}
+
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logincontrols{
+
+    margin-left: 150px;
+}
+
+.forgottonlink{
+
+color: #c1c6cfce;
+text-decoration: none;
+}
+
+.submitbutton{
+    color: #fff;
+    background: #4267b4;
+    border-color: #29487d;
+    height: 25px;
+    cursor: pointer;
+    
+}
+.submitbutton:hover{
+
+background: rgb(18, 18, 202);
+}
+
+.leftbody{
+    width: 50%;
+    float: left;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+
+.rightbody{
+    width: 30%;
+    float: left;
+    
+}
+.mainbody{
+    background: linear-gradient(white,#d3d8e8);
+    width: 1005;
+    height:690px;
+}
+.img{
+    width: 650px;
+  
+   
+}
+
+.para{
+    font-weight: bold;
+    font-size: 24px;  
+}
+#right2ndpara{
+    margin-top: -15px;
+}
+.firstname{
+    float: left;
+
+}
+
+.surename{
+   float: left;
+   padding-left: 8px;
+}
+.buttonsignup{
+    background: rgb(3, 212, 27);
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    border: green;
+    width: 170px;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.buttonsignup:hover{
+    background: rgb(1, 237, 1);
+}
